@@ -6,10 +6,7 @@
       <change afterPath="$PROJECT_DIR$/../DRFapi/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../DRFapi/tutorial/snippets/serializers.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../DRFapi/tutorial/snippets/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/profiles/migrations/0002_auto_20190728_1706.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profiles/urls.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../profiles-rest-api/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../profiles-rest-api/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../profiles/.idea/vcs.xml" afterDir="false" />
@@ -39,9 +36,9 @@
       <change beforePath="$PROJECT_DIR$/../../ReliefManagementSystemFrontend-master/src/app/upazilla-create/upazilla-create.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../ReliefManagementSystemFrontend-master/src/app/upazilla-create/upazilla-create.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ReliefManagementSystemFrontend-master/src/app/upazilla-show/upazilla-show.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../ReliefManagementSystemFrontend-master/src/app/upazilla-show/upazilla-show.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ReliefManagementSystemFrontend-master/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../ReliefManagementSystemFrontend-master/src/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Profiles_rest_api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Profiles_rest_api.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profiles/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Profiles_rest_api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Profiles_rest_api/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +58,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -115,6 +113,7 @@
       <option name="presentableId" value="Default" />
       <updated>1564267181446</updated>
       <workItem from="1564326587456" duration="4598000" />
+      <workItem from="1564420238772" duration="2530000" />
     </task>
     <servers />
   </component>
@@ -126,7 +125,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
