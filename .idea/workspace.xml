@@ -6,7 +6,6 @@
       <change afterPath="$PROJECT_DIR$/../DRFapi/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../DRFapi/tutorial/snippets/serializers.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../DRFapi/tutorial/snippets/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/profiles/permissions.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../profiles-rest-api/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../profiles-rest-api/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../profiles/.idea/vcs.xml" afterDir="false" />
@@ -37,8 +36,7 @@
       <change beforePath="$PROJECT_DIR$/../../ReliefManagementSystemFrontend-master/src/app/upazilla-show/upazilla-show.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../ReliefManagementSystemFrontend-master/src/app/upazilla-show/upazilla-show.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ReliefManagementSystemFrontend-master/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../ReliefManagementSystemFrontend-master/src/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profiles/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profiles/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles/permissions.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/permissions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/profiles/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -115,7 +113,7 @@
       <updated>1564267181446</updated>
       <workItem from="1564326587456" duration="4598000" />
       <workItem from="1564420238772" duration="6620000" />
-      <workItem from="1564477308182" duration="7758000" />
+      <workItem from="1564477308182" duration="8561000" />
     </task>
     <servers />
   </component>
