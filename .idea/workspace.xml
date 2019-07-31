@@ -40,7 +40,8 @@
       <change beforePath="$PROJECT_DIR$/../../ReliefManagementSystemFrontend-master/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../ReliefManagementSystemFrontend-master/src/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Profiles_rest_api/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Profiles_rest_api/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profiles/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles/permissions.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/permissions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/serializers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/profiles/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/profiles/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/views.py" afterDir="false" />
     </list>
@@ -120,7 +121,8 @@
       <workItem from="1564420238772" duration="6620000" />
       <workItem from="1564477308182" duration="9093000" />
       <workItem from="1564524187888" duration="4595000" />
-      <workItem from="1564564473162" duration="1842000" />
+      <workItem from="1564564473162" duration="4406000" />
+      <workItem from="1564588499122" duration="5133000" />
     </task>
     <servers />
   </component>
