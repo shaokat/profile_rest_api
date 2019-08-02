@@ -1,0 +1,7 @@
+Django==2.2.3
+djangorestframework==3.10.1
+future==0.17.1
+pytz==2019.1
+serializers==0.2.4
+sqlparse==0.3.0
+uWSGI == 2.0.17
